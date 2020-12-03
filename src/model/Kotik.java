@@ -105,6 +105,7 @@ public class Kotik {
   }
   /*
    * service methods
+   * some
    */
 
   private void say(String inputMsg) {
